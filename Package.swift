@@ -17,28 +17,28 @@ let package = Package(
     targets: [
     	.binaryTarget(
             name: "RongIMLibCore",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_12_2_Dev.zip",
-            checksum: "ba46253fb4d329498660bde6fd6ae5da8952e8688fd976bbdbff91866f31a1e9"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_12_3_Dev.zip",
+            checksum: "9e7a7a5a90f5b3624d5da3cd1cd9553ca4c93cf3d014ab49ec08b620fcd99bba"
         ),
         .binaryTarget(
             name: "RongChatRoom",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_12_2_Dev.zip",
-            checksum: "c9369b7057029e845ce294212262ef7ced5cb1d762cfd388a19823cf514b87e9"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_12_3_Dev.zip",
+            checksum: "ba51c41d027a381c1c667903b91bfb9b2bde4cd1a049aca6f04509cf6813c3ca"
         ),
         .binaryTarget(
             name: "RongCustomerService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_12_2_Dev.zip",
-            checksum: "3b159994fba9590821b672d2497b0d2a5820ffcef27a345572c227e475588002"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_12_3_Dev.zip",
+            checksum: "a5f2bf78d97fe8b72cb0b346535e4f4ec65d1194c43f6d5d52074ccf1383e97e"
         ),
         .binaryTarget(
             name: "RongDiscussion",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_12_2_Dev.zip",
-            checksum: "b08040c9ff6ab7c0a4b00ecf680108a9def6d2c3544c4e33fcabfc38e28309e1"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_12_3_Dev.zip",
+            checksum: "ca6009d21179f7dedaea383edab8202bfa309e3a41287bff7810092b9c6e1237"
         ),
         .binaryTarget(
             name: "RongPublicService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_12_2_Dev.zip",
-            checksum: "d0578a522400761ff2523231c86f662b81bf4e8392551f048570ff110a88a731"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_12_3_Dev.zip",
+            checksum: "1fc94c4a707cf1e19834af3ad55765994e9137fc83290156207dbd2965992311"
         )
     ]
 )
