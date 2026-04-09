@@ -21,48 +21,48 @@ let package = Package(
     targets: [
     	.binaryTarget(
             name: "RongIMLibCore",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_20_0_109_Dev.zip",
-            checksum: "ba1c6f6f5ef2657529dc25b6fd798be0daa29cb24c1d7c821579489b2be64ce9"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_36_4_Dev.zip",
+            checksum: "a9fd48c43f13b334f31b6fce800ffef4617f3f5fdaf6aff742edaae8871a3ac8"
         ),
         .binaryTarget(
             name: "RongChatRoom",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_20_0_109_Dev.zip",
-            checksum: "425003c4914febcd326844657a55b75cb6234f4d811446b898e3f89f7fe9668f"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_36_4_Dev.zip",
+            checksum: "f7ee4ba59615de9a4276e0ca48f52c400ddf90dfa08f50d4edb6e1b9a33cc310"
         ),
         .binaryTarget(
             name: "RongCustomerService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_20_0_109_Dev.zip",
-            checksum: "60b6f8d318892f7889f0a5296b356f05ecef0ec2be7c62023bf0303fa29af773"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_36_4_Dev.zip",
+            checksum: "f11fe8d3a1eab26ddbf05834c1851570c474698685b2356b225e5f5a43f766f3"
         ),
         .binaryTarget(
             name: "RongDiscussion",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_20_0_109_Dev.zip",
-            checksum: "7cb9cec4439ceaf622a3d513c9ca7ce151a2216323a39bdbdb9a33e88409c562"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_36_4_Dev.zip",
+            checksum: "0cc24db7b65ea1746653e3046bc9f483cf7486e52340c37b0ca2745a06b5727f"
         ),
         .binaryTarget(
             name: "RongPublicService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_20_0_109_Dev.zip",
-            checksum: "ccc2d7c9f3db568234254f444bb50c5dc5e96ea53be6264e111b773e87d444c6"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_36_4_Dev.zip",
+            checksum: "fbb29e0052760a3cd1538d387548be8cded10760ceb5ea8c0b71442d10657625"
         ),
         .binaryTarget(
             name: "RongIMKit",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_20_0_109_Dev.zip",
-            checksum: "0c286e18c44899b073365a696259e66c5b608f4a628ec047065243a9653b33bf"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_36_4_Dev.zip",
+            checksum: "b6621cd0f7bd83d5c340a4a8d591710fd587acbe3f6a9d6417859795c3305976"
         ),
         .binaryTarget(
             name: "RongSticker",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_20_0_109_Dev.zip",
-            checksum: "df0508a169e1e774c2698bb67a45c96cf10ddb087ae84277bf97acb03627c8f4"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_36_4_Dev.zip",
+            checksum: "2846d131aeaaafe6f689e5bd82daafd66d5589c7317be8408c29bcc90ee6dc2f"
         ),
         .binaryTarget(
             name: "RongSight",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_20_0_109_Dev.zip",
-            checksum: "337dbfb3e97beaf93f201e138aa35b71a7cb8ca450ab94fbbec3be54efc2ad87"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_36_4_Dev.zip",
+            checksum: "87d3c36b1d647431ceaa6f79d73e2b6552b0d848932af0e8d5266f2d434c689b"
         ),
         .binaryTarget(
             name: "RongContactCard",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_20_0_109_Dev.zip",
-            checksum: "5b02269a0168c492e503ba9c541d34bb95451180aa3e276ff1a6fc67a044c643"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_36_4_Dev.zip",
+            checksum: "795e5d9defc1195fc64cf9a4296bcec333d790f9b8ad201c625302773bf7a1c2"
         )
     ]
 )
