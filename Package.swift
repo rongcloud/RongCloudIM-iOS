@@ -21,48 +21,48 @@ let package = Package(
     targets: [
     	.binaryTarget(
             name: "RongIMLibCore",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_38_0_Dev.zip",
-            checksum: "cd29d3663ce983a17e0513d7f29618dc255abe63d5424b5dde7e08cdb7b82706"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_40_0_Dev.zip",
+            checksum: "a23f0718faf37edf3368e3c62efb138f2b59a0d13ce49682c0d4c79851bf049d"
         ),
         .binaryTarget(
             name: "RongChatRoom",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_38_0_Dev.zip",
-            checksum: "33da1f972d07a9ca402dc10554585fec8dfd532e51f524b37ac4a936cb8f5a75"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_40_0_Dev.zip",
+            checksum: "af942e48873cb44f05a6a926a37a77eae14dd5b2a05bd334a35d199bfd286f4a"
         ),
         .binaryTarget(
             name: "RongCustomerService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_38_0_Dev.zip",
-            checksum: "8042e3cde3cfffb036fbe44dc7a12dad5a4a82dbf97c82ef4cdea3c3c94e5400"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_40_0_Dev.zip",
+            checksum: "2f934eb62f984764fd4466fd1cc848db69fcd0276dd9a41d28cbb8a5137e5c87"
         ),
         .binaryTarget(
             name: "RongDiscussion",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_38_0_Dev.zip",
-            checksum: "eaa97c355e32381b6b18cc29b56108694fcedb54b03293943f87e74b1e11eb87"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_40_0_Dev.zip",
+            checksum: "f05c6625289387d5717d8a2bdc282fe9a1b1925bf07da260f5b25b2570d89b5b"
         ),
         .binaryTarget(
             name: "RongPublicService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_38_0_Dev.zip",
-            checksum: "526ba2c1b79fa52c20e1555ab29a0280a9f2970b956129e9bd0b60c98242e761"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_40_0_Dev.zip",
+            checksum: "9ef4c6c5d47b7eead2a62ccdaf9b2d8501d3fa3ee8e6f479d2c189d2ae49183b"
         ),
         .binaryTarget(
             name: "RongIMKit",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_38_0_Dev.zip",
-            checksum: "149803260c87213b741ed3c0c3e8b882e400583ef071e63b317283faa5966329"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_40_0_Dev.zip",
+            checksum: "c2264fa396b78f19071c7379ea02f02f831ff53821f44c30022f12b4e6373361"
         ),
         .binaryTarget(
             name: "RongSticker",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_38_0_Dev.zip",
-            checksum: "746f0c3155bd63009832411d7611ca89e554cc2ae8ba04361d2ea527f85b437f"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_40_0_Dev.zip",
+            checksum: "dff86fff57a6ccce30ff8e9cc7f49ee686e4a784f3353c422eaf68d0fb5c4877"
         ),
         .binaryTarget(
             name: "RongSight",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_38_0_Dev.zip",
-            checksum: "524f7c0e60deb596e043dbaa5cc270c207c7a2b5348a55d8abadd1b1c3903993"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_40_0_Dev.zip",
+            checksum: "6d11b3b4f7c51d6b6e07db0b820f28b5811d37752bf4b4ca6c4f0d53c3f4e221"
         ),
         .binaryTarget(
             name: "RongContactCard",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_38_0_Dev.zip",
-            checksum: "2de5215b8713b90a46c038b4bae4dc2084b8776b3924438fb38ed0411fc73d2d"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_40_0_Dev.zip",
+            checksum: "8a4060e7bfc5b518723fc1938d1ffd32228acca00dd105795e1aab4987268b8f"
         )
     ]
 )
