@@ -21,48 +21,48 @@ let package = Package(
     targets: [
     	.binaryTarget(
             name: "RongIMLibCore",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_7_12_Stable.zip",
-            checksum: "42a83dd43872c36cfcb0764982fd9f1951b56edd0f04de95f64ee75e29a57d9e"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_IMLibCore_SDK_v5_20_0_110_Dev.zip",
+            checksum: "3f103c94b2d4a8d54edf94efcccd41663dd9c725440e643333bfae180b283f31"
         ),
         .binaryTarget(
             name: "RongChatRoom",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_7_12_Stable.zip",
-            checksum: "49c4b4b5573b3d12fc305367ce149c88a6a3999c0f395c11b479f6e536e5cc2a"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_ChatRoom_SDK_v5_20_0_110_Dev.zip",
+            checksum: "a197e1f141e04c153bac134d1b801812ee8ff82775562a46b496e6fa53c5dd51"
         ),
         .binaryTarget(
             name: "RongCustomerService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_7_12_Stable.zip",
-            checksum: "ae204f63bb10af542f42f0f6575814c7f97ffbda8acde3444b34166c9f845b43"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_CustomerService_SDK_v5_20_0_110_Dev.zip",
+            checksum: "f532bc8015474d0ba5d7c6f59410e3d1ad8ae66341e657daf0de7b5ed5d9f8f4"
         ),
         .binaryTarget(
             name: "RongDiscussion",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_7_12_Stable.zip",
-            checksum: "ff73a7cc8b40a8474740a6db18df628c3c5c92b7559323a538cfa170534c2f38"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_Discussion_SDK_v5_20_0_110_Dev.zip",
+            checksum: "5f997e2800420c0ab4757545f6f6f58ff3dc28b952d26e845a1f7a6b3d351064"
         ),
         .binaryTarget(
             name: "RongPublicService",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_7_12_Stable.zip",
-            checksum: "3c7182444816c52204137554075eb01335fce8dc6f2cd2858dc5ff600db31f6b"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_iOS_PublicService_SDK_v5_20_0_110_Dev.zip",
+            checksum: "dcb420149a51054a42a2b7c5dd113748e91341a32900642a4f3040db7650fda2"
         ),
         .binaryTarget(
             name: "RongIMKit",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_7_12_Stable.zip",
-            checksum: "5ef75aea2e931626e4f80db27a9f3969ce69a7051ca7fc93fd773df87c88fa6b"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_IMKit_SDK_v5_20_0_110_Dev.zip",
+            checksum: "4d777bd1a951a67e72bee930e9612a8797993dfad8337f149b7d9b47db2c5712"
         ),
         .binaryTarget(
             name: "RongSticker",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_7_12_Stable.zip",
-            checksum: "ec6421bd8b3d52bfd1c1c104d490d1b6159b0de3494e573a670813269ffedbf3"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sticker_SDK_v5_20_0_110_Dev.zip",
+            checksum: "52b5f28cee0e4ae922c1aca9e3a456da6bf224e52e6062f5eebf00799bbe5dcf"
         ),
         .binaryTarget(
             name: "RongSight",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_7_12_Stable.zip",
-            checksum: "1da8a70f1f1d293012d7941a573cd49b80123c0fd2dd26605a1a3211d78a0670"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_Sight_SDK_v5_20_0_110_Dev.zip",
+            checksum: "6f96c782e81c69a74c0150a44f1120be7751de59c44bf8c59492f48e01cd5be7"
         ),
         .binaryTarget(
             name: "RongContactCard",
-            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_7_12_Stable.zip",
-            checksum: "bfdcd53a2a4895e09aa1db67bda96a53ed8ed0889bc6ae2fbeebc9b13cedcbcb"
+            url: "https://downloads.rongcloud.cn/Rong_Cloud_SPM_iOS_ContactCard_SDK_v5_20_0_110_Dev.zip",
+            checksum: "b5a26f97a35eb95222ab77735e9d164f1f0614f63c5d24036488d28b5245f215"
         )
     ]
 )
